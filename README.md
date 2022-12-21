@@ -1,0 +1,2 @@
+# go.vital
+Challenge
