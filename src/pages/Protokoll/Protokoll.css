@@ -1,0 +1,35 @@
+.field {
+  box-shadow: rgba(27, 31, 35, 0.09) 0px 1px 0px,
+    rgba(255, 255, 255, 0.25) 0px 1px 0px inset;
+  height: 3rem;
+  display: flex;
+  width: 100vmin;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.field-des {
+  font-weight: 600;
+  padding-bottom: .3rem;
+  display: flex;
+  align-items: center;
+}
+
+.field-time {
+  font-size: .7rem;
+  color: #888888;
+}
+
+.protokoll-icon {
+    position: absolute;
+    right: 1.5rem;
+    fill: #ffffff;
+    font-size: 1.5rem;
+    stroke-width: .7;
+}
+
+.field-des svg {
+  font-size: 1.1rem;
+  color: #888888;
+  padding-right: .2rem;
+}
